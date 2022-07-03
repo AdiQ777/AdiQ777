@@ -1,8 +1,9 @@
 ### Hello World 👋
-I am a fullstack software engineer from bangladesh!
+My name is Adrian and I'm a phd graduate who decided to turn his life upside down and switch to entirely new field
 
 - 🔭 I’m currently working on making my way through exciting path to learn new things
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning django framework and basics of cryptography
+- ⚡ Fun fact: It is possible to reverse aging of a human skin cell!
 
 <br>
 
